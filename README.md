@@ -6,7 +6,7 @@
 
 A robust, fault-tolerant Electronic Control Unit (ECU) designed for high-noise industrial and automotive environments. This repository contains the mixed-signal schematic architecture, PCB layout strategies, and bare-metal STM32 firmware for a hybrid-diagnostic control module.
 
-![MPCLC 3D OrthoView](./hardware/Top%20Layer%20Trace%20and%20Layout.png)
+![MPCLC 3D OrthoView](./hardware/Top%20Ortho%20View%203D.png)
 ![MPCLC Top PCB Trace](./hardware/Top%20Layer%20Trace%20and%20Layout.png)
 ## System Overview
 
